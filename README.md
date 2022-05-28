@@ -1,4 +1,4 @@
-# Land-registration-using-Ethereum-Blockchain-
+# Land-Registration-Using-Ethereum-Blockchain-
 Land Registration and Transfer System Using Blockchain
 
 # prerequisite:
